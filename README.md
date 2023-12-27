@@ -1,6 +1,5 @@
 ![image](./maxresdefault.png)
-# <centre>hate-speech-detector-based-on-hybridized-bert-attention-mechanism-and-context-analyzer
- </centre>
+# <centre>hate-speech-detector-based-on-hybridized-bert-attention-mechanism-and-context-analyzer</centre>
 ### <centre> by </centre>
 ## <centre> Shedrack David </centre>
 ### Abstract
